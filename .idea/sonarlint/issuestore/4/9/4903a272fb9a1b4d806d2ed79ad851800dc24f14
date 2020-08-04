@@ -1,0 +1,30 @@
+
+v
+java:S3012!"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(òõ°à8æî€ ©.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¬öüÿÿÿÿ8Ø„ÎŸ©.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(á¦İ­úÿÿÿÿ8ê²ÆŸ©.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¢ÙÊ8æî€ ©.
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹İµ–úÿÿÿÿ8æî€ ©.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¨ºöªşÿÿÿÿ8ê²ÆŸ©.
+v
+java:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(òõ°à8æî€ ©.
+U
+java:S1197"8Move the array designator from the variable to the type.(—œ¬8§ŸÄŸ©.
+U
+java:S1197"8Move the array designator from the variable to the type.(—œ¬8§ŸÄŸ©.
+V
+java:S28642"4Iterate over the "entrySet" instead of the "keySet".(û‹éúÿÿÿÿ8æî€ ©.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÇ¶
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÆŠ†Ûÿÿÿÿÿ8ÅîÌŸ©.
+U
+java:S1197"8Move the array designator from the variable to the type.(“Ù‡Š8æî€ ©.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(¼òÃÄ8æî€ ©.
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÆŠ†Ûÿÿÿÿÿ8óŠÍŸ©.
+U
+java:S1197"8Move the array designator from the variable to the type.(“Ù‡Š8æî€ ©.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌƒÇ

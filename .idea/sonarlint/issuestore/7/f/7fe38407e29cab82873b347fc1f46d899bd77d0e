@@ -1,0 +1,13 @@
+
+8
+java:S3626#"Remove this redundant jump.(ÉŠ©ƒ8ü–ê¸µ.
+U
+java:S1197"8Move the array designator from the variable to the type.(Úê”­8àñŞ´µ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘º‹»
+Z
+java:S1197"8Move the array designator from the variable to the type.(‰¤åÙıÿÿÿÿ8àñŞ´µ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(³°§ıÿÿÿÿ8àñŞ´µ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿ8àñŞ´µ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8›÷÷´µ.

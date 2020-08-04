@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èç’Û
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ı…Û¼³.
+z	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(òÁ•ìşÿÿÿÿ8éÙª½³.
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(¿½ïÀùÿÿÿÿ8¬ê×¼³.
+
+java:S4165)"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(ˆáŒƒ8øª’½³.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‘Ú„°şÿÿÿÿ8éÙª½³.
+
+java:S4165"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(ˆáŒƒ8ßºë¼³.

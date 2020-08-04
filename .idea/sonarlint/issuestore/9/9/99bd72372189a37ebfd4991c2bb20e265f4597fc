@@ -1,0 +1,17 @@
+
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Ì×âä8œıÇæ³.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ8ãğØæ³.
+P
+java:S2864="4Iterate over the "entrySet" instead of the "keySet".(ÖÉM8ÏÌÕæ³.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ëş‰·8‰‹áæ³.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èç’Û
+Z
+java:S1197"8Move the array designator from the variable to the type.(§Î” ıÿÿÿÿ8ùÀÅğ³.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8„ÁÛæ³.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ8Ò›Ùæ³.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Í«öãøÿÿÿÿ8ñÕæ³.
+v
+java:S3012J"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ÿ™Æ–8ˆÕàæ³.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ËâÛæ³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º¼É°8á™Éğ³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßõÓ’ıÿÿÿÿ8¾ÅÉğ³.

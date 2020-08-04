@@ -1,0 +1,16 @@
+
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ö¢êè´.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(º¼É°8ö¢êè´.
+Q
+java:S3740H"/Provide the parametrized type for this generic.(àÓœ˜şÿÿÿÿ8ö¢êè´.
+Q
+java:S2864S"4Iterate over the "entrySet" instead of the "keySet".(§µÊ·8ö¢êè´.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îÁ–ûÿÿÿÿ8Š–òè´.
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(êÌ×Ûüÿÿÿÿ8ö¢êè´.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘º‹»
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ö¢êè´.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(šŸ‰›8ö¢êè´.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ªæ·ñùÿÿÿÿ8ö¢êè´.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ü’óñ8ö¢êè´.
+{
+java:S3012_"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÍÖÑÓşÿÿÿÿ8ö¢êè´.

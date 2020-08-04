@@ -1,0 +1,19 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ı¢ãÙ8ğĞªŸ©.
+@
+java:S1659"#Declare "right" on a separate line.(ê¦÷ß8ğĞªŸ©.
+?
+java:S1659""Declare "flag" on a separate line.(ê¦÷ß8ğĞªŸ©.
+>
+java:S1659"!Declare "loc" on a separate line.(ê¦÷ß8ğĞªŸ©.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌƒÇ8‹Ê¨Ÿ©.
+U
+java:S1197-"8Move the array designator from the variable to the type.(’¨¹…8ğĞªŸ©.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(„Ô§8ğĞªŸ©.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(îìÜ•ùÿÿÿÿ8ğĞªŸ©.
+U
+java:S1197"8Move the array designator from the variable to the type.(„Ô§8ğĞªŸ©.
+?
+java:S1659""Declare "temp" on a separate line.(ê¦÷ß8ğĞªŸ©.

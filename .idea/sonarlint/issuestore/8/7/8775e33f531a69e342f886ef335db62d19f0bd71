@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²¡ßÿÿÿÿÿ8´İØï±.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(õÈé8´İØï±.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒœ°ûÿÿÿÿ
+X	java:S125L"<This block of commented-out lines of code should be removed.(¿ÏĞÅ8´ÈÒï±.
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‡ëÁg8´İØï±.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(—Óâòûÿÿÿÿ8®ˆ£ï±.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î©»ûúÿÿÿÿ8´İØï±.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(º¦É—úÿÿÿÿ8‘¾ìï±.
+X	java:S125."<This block of commented-out lines of code should be removed.(¡ô¼Ë8®ˆ£ï±.

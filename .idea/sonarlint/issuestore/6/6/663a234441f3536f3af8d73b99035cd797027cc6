@@ -1,0 +1,19 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(¥Ÿüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘º‹»
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(×Æáî8ÛÙÅÈµ.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¶çôê´.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(×Æáî8Ê·†ì´.
+N
+java:S1197"8Move the array designator from the variable to the type.(ÊóÃä
+U
+java:S1197?"8Move the array designator from the variable to the type.(•‘¿8¿¯öë´.
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÊóÃä
+
+java:S1319?"qThe type of the "map" object should be an interface such as "Map" rather than the implementation "LinkedHashMap".(•‘¿8¿¯öë´.
+Z
+java:S1197#"8Move the array designator from the variable to the type.(ù¯Ö°ùÿÿÿÿ8¤èåê´.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(×Æáî8«Ó©ë´.

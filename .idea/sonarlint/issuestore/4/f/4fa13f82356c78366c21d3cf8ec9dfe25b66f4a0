@@ -1,0 +1,10 @@
+
+>
+java:S1643"Use a StringBuilder instead.(«şåıÿÿÿÿ8šÉ«¸®.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒœ°ûÿÿÿÿ
+P
+java:S28647"4Iterate over the "entrySet" instead of the "keySet".(ÖÉM8•˜Û¸®.
+H
+java:S1481"+Remove this unused "result" local variable.(ìş“8—‘¶¸®.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦Ûûÿÿÿÿ8üÔ‹¹®.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(µš8¹“¹®.

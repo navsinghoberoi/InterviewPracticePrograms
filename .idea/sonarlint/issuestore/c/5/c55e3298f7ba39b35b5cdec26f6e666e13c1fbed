@@ -1,0 +1,16 @@
+
+^
+java:S11266"AReplace this if-then-else statement by a single return statement.(£şçÁ8¸¢€¶®.
+>
+java:S1643"Use a StringBuilder instead.(«şåıÿÿÿÿ8êÕ¶®.
+>
+java:S16434"Use a StringBuilder instead.(Òê†Õşÿÿÿÿ8¸¢€¶®.
+X	java:S125"<This block of commented-out lines of code should be removed.(Õ–Í½8’é ¸®.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒœ°ûÿÿÿÿ
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¿È÷şıÿÿÿÿ8§‰„¸®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±Áòúÿÿÿÿ8‡Ùûí±.
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8…·ı·®.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8™äÈ½´.
+]	java:S125%"<This block of commented-out lines of code should be removed.(†£ªÜøÿÿÿÿ8“òÌ´.

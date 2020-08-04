@@ -1,0 +1,14 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(¦“ª¹8‡¬ã¹µ.
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(à€¼úÿÿÿÿ8»Ûœºµ.
+J
+java:S1128
+".Remove this unused import 'java.util.TreeSet'.(½îB8º¿ºµ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘º‹»
+Z
+java:S1197"8Move the array designator from the variable to the type.(‡¼×üÿÿÿÿ8€¬á¹µ.
+8
+java:S3626""Remove this redundant jump.(ÉŠ©ƒ8¿úı¹µ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8–¥â¹µ.

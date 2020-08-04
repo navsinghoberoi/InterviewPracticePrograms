@@ -1,0 +1,15 @@
+
+N
+java:S1197"8Move the array designator from the variable to the type.(Ìò€
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(‘´˜±
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èç’Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ææ Ï
+2
+java:S1643"Use a StringBuilder instead.(ôÊÎ
+7
+java:S1643 "Use a StringBuilder instead.(ü¿ØÍùÿÿÿÿ
+h
+java:S1192"RDefine a constant instead of duplicating this literal "today is thursday" 3 times.(İÃê¨
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÀÁâ•
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(¦€V
+S	java:S106("9Replace this use of System.out or System.err by a logger.(­–ÒÁøÿÿÿÿ

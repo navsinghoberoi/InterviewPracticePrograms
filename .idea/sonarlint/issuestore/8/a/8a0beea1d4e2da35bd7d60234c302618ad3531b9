@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ÿ£8ΛΒ¨.
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ΞΓΨ8ΛΒ¨.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΒÒ°ϋÿÿÿÿ
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™”€ωÿÿÿÿ8”νΒ¨.
+•
+java:S1319"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(Ξ΅κύÿÿÿÿ8ΡΫΒ¨.

@@ -1,0 +1,19 @@
+
+t	java:S127A"XRefactor the code in order to not assign to this loop counter from within the loop body.(„À8ÜºË›¶.
+9
+java:S1643?"Use a StringBuilder instead.(â›ÕÎ8ÜºË›¶.
+U
+java:S1197"8Move the array designator from the variable to the type.(ñÒ¸€8ƒÔùš¶.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ñÒ¸€8…¼Ê›¶.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(è›†œÿÿÿÿÿ8İ›øš¶.
+K
+java:S19404")Use the opposite operator ("!=") instead.(Æçµ•ÿÿÿÿÿ8©‹²›¶.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èç’Û
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8öİñš¶.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8€÷‡›¶.
+8
+java:S3626C"Remove this redundant jump.(ÉŠ©ƒ8ÜºË›¶.
